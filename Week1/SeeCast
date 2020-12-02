@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+        <title> Amazing Spider Man 2 </title>
+
+
+  <link href="CSS/style.css" rel="stylesheet" type="text/css" />
+
+
+  </head>
+
+
+  <h1 id="Hey">
+     Amazing Spider Man 2
+   </h1>
+
+     <nav>
+       <a link href="Home,html" rel="stylesheet">Home</a>
+       <a link href="SeeCast">Cast</a>
+     </nav>
+
+  <h1> Cast Page </h1>
+
+  <div>
+    <h1> Andrew Russell Garfeild </h1>
+    <p> Andrew Russell Garfield is an American-British actor who was born 20th august 1983 (age 37 years), Los Angeles, California, United states. He attended a school called Royal Central School of Speech where he won many academy nominations. Andrew Garfield is known for playing spider man in the 2012 superhero movie Amazing Spider Man and its sequel in 2016. Andrew Garfield is also known for starring in two historical dramas which are called, Hacksaw Ridge and silence. </p>
+  </div>
+
+</html>
+<footer>Created by George Sassa P2608581 Multimedia Coursework 1 </footer>
